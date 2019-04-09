@@ -20,4 +20,4 @@ Table 1.  Statistical parameters for Project0 training data.
  |    |  Prior Values | Mean Values | Covariance Matrices |
 |:----------|:---------:|:--------:|------:|
 |  class 1 | 0.75 | [0.0414   -0.0069]  |  [8.1074   -1.0368;  -1.0368    3.9351]  |          
-|  class 2 | 0.25 |  [5.0081    7.9241]  | [6.0501     2.8475;   2.8475   11.2220] |
+|  class 2 | 0.25 |  [5.0081    7.9241]  | [6.0501     2.8475;   2.8475   11.2220]  |
