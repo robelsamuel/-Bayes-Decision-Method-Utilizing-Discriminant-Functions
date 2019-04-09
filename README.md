@@ -8,7 +8,11 @@ Visual observation of the data was conducted using MATLAB functionality for hist
 
 The basic statistical information including the prior probability, mean and covariance of the training data for Project 0 is summarized in Table 1.  Table 2 contains the relevant parameters for the test data
 
-|  love    |
-|----------|
-|    hello |
-|          |
+Table 1.  Statistical parameters for Project 0 training data.
+|    |  Prior Values | Mean Values | Covariance Matrices |
+|----------|---------|--------|------|
+|  class 1 | 0.75 | [-0.0056   -0.0293] |    [7.8510    -1.1144; | 
+|          |      |                     |     -1.1144    4.0218]           
+|  class 2 | 0.25 |  [4.9893    7.9729] |    [5.8559    2.8060;  |
+|         |       |                     |      2.8060   11.7088] 
+         
