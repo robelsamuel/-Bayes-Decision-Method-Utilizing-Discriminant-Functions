@@ -8,4 +8,7 @@ Visual observation of the data was conducted using MATLAB functionality for hist
 
 The basic statistical information including the prior probability, mean and covariance of the training data for Project 0 is summarized in Table 1.  Table 2 contains the relevant parameters for the test data
 
-
+|  love    |
+|----------|
+|    hello |
+|          |
