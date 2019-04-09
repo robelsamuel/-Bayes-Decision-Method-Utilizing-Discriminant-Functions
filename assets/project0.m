@@ -1,5 +1,4 @@
 function project0()
-%% Implement EE5650 (UW F17) Project 0
 % function project0()
 % A classifier based on discriminant functions that operates on
 % two-dimensional feature and class data.
