@@ -57,3 +57,12 @@ The discriminants evaluated for a specific feature vector must be compared direc
 Figure 5. Decision regions and boundaries for the discriminants developed from the training data. 
 
 ![Decision_regions_and_boundaries_for_the_discriminants_developed_Trainig_Data](https://user-images.githubusercontent.com/14088523/55841887-58338b00-5aee-11e9-9760-c50563b41a07.PNG)
+
+The overall performance of the simple discriminant classifier presented here is encouraging.  The results of the classification are given in Table 2 for the training and test data.  A good check of the initial performance and suitability of the classifier is to test the classifier on the training data.  Large errors may indicate error in the algorithm or the need to include a larger feature space.  Interestingly, the test data was slightly more accurately classified than the training data. 
+
+Table 3.  2-D classifier (dichotomizer) results for training and test data*. 
+
+|Data Source| Class 1| Class 2 |Overall | % Success |% Error |%Success |% Error |% Success |% Error|
+|:------|:----:|:----:|:------:|:-------:|:-----:|:-----:|:----:|:------:|-------:|
+|Training | 98.85 % | 1.15 % | 91.36 % | 8.64 % | 96.98 % | 3.02 % |
+|Test | 98.91 % | 1.09 % | 91.84 % | 8.16 % | 97.14 %  | 2.86 % |
