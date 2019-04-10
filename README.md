@@ -66,4 +66,4 @@ Table 3.  2-D classifier (dichotomizer) results for training and test data*.
 |:------|:----:|:----:|------:|
 |       | % Success | %Success  |% Success  |
 |Training | 98.85%   | 91.36% | 96.98%  |
-|Test | 98.91% | 91.84% | 97.14%   |
+|Test | 98.91% | 91.84% | 97.14% |
