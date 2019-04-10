@@ -1,4 +1,4 @@
-# Linear-Discriminant-Classification Using MATLAB  
+#  Bayes Decision Method Utilizing Discriminant Functions Using MATLAB  
 ## Abstract: 
 
 Actions based on the decision of categorizing an item, described by a sensed set of features, as belonging to one class or another are critical to the implementation of machine learning and autonomous systems.  This investigation utilizes a given set of training data in a supervisory manner to develop and train a discriminant-based dichotomizer.  The subject data provided represents two classes described by a twodimensional feature space.  Visualization of the supplied data is conducted and statistical parameters of the training data are calculated and used to develop the discriminant equation based classifier.  Finally, the classifier is applied to a given set of test data and the performance is discussed along with presentation of decision regions mapped onto a representative feature space.
