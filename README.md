@@ -72,7 +72,11 @@ Table 3.  2-D classifier (dichotomizer) results for training and test data*.
 ## REFERENCES 
 
 [0] Gambell, Tony, Editor. The great re-make: Manufacturing for modern times. Manufacturing Practice. McKinsey & Company.  2017. 
+
 [1] Wright, Dr. Cameron, EE5650 Class Notes, University of Wyoming, ECE, Fall 2017 
+
 [2]  Duda, Richard O., Peter E. Hart, and David G. Stork. Pattern classification. New York, NY: John Wiley & Sons, 2006.  
+
 [3] Wright, Dr. Cameron, Personal Conversation Regarding EE5650, University of Wyoming, ECE, September 19, 2017 
+
 [4] Chen, Chi-hau. Handbook of Pattern Recognition and Computer Vision. 4th ed. Hackensack, NJ: Imperial College Press, 2010.
