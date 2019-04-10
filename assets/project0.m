@@ -9,8 +9,8 @@ function project0()
 % EE5650 UWyo Fall 2017 Matt Burkhart and Robel Girmatsion
 %% LOAD the data from a MATLAB data file.
 % Data is stored in a structures with .class1 and .class2 data
-trainingData=load('training0.mat')
-testData=load('test0.mat')
+trainingData=load('datasets/training0.mat')
+testData=load('datasets/test0.mat')
 
 % Transpose the data from the file from row vector feature data
 % to column feature data so the equations in Duda, Hart & Stork (2006)
